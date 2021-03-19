@@ -1381,6 +1381,7 @@ application/x-pnacl
 application/x-pointplus
 application/x-portable-anymap
 application/x-project
+application/x-protobuf
 application/x-qpro
 application/x-rar-compressed
 application/x-rtf
