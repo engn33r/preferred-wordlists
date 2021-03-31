@@ -32,4 +32,4 @@ wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/
 wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/api/objects.txt
 cd ..
 
-
+git clone https://github.com/ayoubfathi/leaky-paths
