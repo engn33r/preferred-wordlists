@@ -59,6 +59,9 @@
 .cfg
 .cfignore
 .checkstyle
+.circleci/
+.circleci/.firebase.secrets.json
+.circleci/.firebase.secrets.json.enc
 .circleci/config.yml
 .classpath
 .cobalt
@@ -1652,6 +1655,7 @@ classic.json
 classic.jsonp
 cleanup.log
 cli/
+client.ovpn
 client_secret.json
 client_secrets.json
 ClientAccessPolicy.xml
@@ -3915,6 +3919,7 @@ server.cfg
 server.js
 server.key
 server.log
+server.ovpn
 Server.php
 server.pid
 server.xml
